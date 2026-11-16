@@ -1,0 +1,3 @@
+I am Rangaswamy
+My DSA Project is Inverted Search
+Inverted search is to search the words in files
